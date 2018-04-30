@@ -1,12 +1,12 @@
-# Description of files
+Description of files
 ------------
-	* Dockerfile - builds image of Nginx server with a lua-nginx-module based on ubuntu:16.04
+* Dockerfile - builds image of Nginx server with a lua-nginx-module based on ubuntu:16.04
 
-	* index.lua - test script 
+* index.lua - test script 
 
-	* nginx.conf - NGINX configuration
+* nginx.conf - NGINX configuration
 
-# Description 
+Description 
 ------------
 
 
